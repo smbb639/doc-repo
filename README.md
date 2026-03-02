@@ -1,9 +1,4 @@
-# 📒 Accounts Backend — Complete Architecture & Developer Guide
-
-> **Audience:** Developers with zero finance/accounting background.
-> **Last updated:** 2 March 2026
-
----
+# Accounts Backend — Complete Architecture & Developer Guide
 
 ## Table of Contents
 
